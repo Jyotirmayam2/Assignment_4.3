@@ -1,0 +1,12 @@
+/* extrenal style sheet, from html will take the default styles */
+body {
+    margin: 10px;
+}
+article{
+    border: 1px black solid; /*CSS Border Styling*/
+    height: 100px;
+}
+/* CSS Nesting Styling  */
+article img{
+    padding-top: 25px;            
+}
